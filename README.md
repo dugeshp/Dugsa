@@ -1,3 +1,2 @@
 # Dugsa
-my first project
-java
+my first java project
